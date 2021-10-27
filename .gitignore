@@ -1,0 +1,3 @@
+# Put any files you would like to exlude when pushing to a place such as github
+# Official documentaition on how to use and exlude files: https://git-scm.com/docs/gitignore
+# Linuxize's documentation I really like to use and look back on: https://linuxize.com/post/gitignore-ignoring-files-in-git/
